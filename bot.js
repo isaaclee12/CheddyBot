@@ -26,7 +26,7 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 
         args = args.splice(1);
         switch(cmd) {
-            // !role
+            // !cheddar
             case 'cheddar':
                 bot.sendMessage({
                     to: channelID,

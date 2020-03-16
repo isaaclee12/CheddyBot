@@ -1,8 +1,11 @@
 {
-"name": "CheddyBot",
-"version": "1.0.0",
-"description": "The Official UVM GG Discord Bot",
-"main": "bot.js",
-"author": "Isaac Lee",
-"dependencies": {}
+  "name": "CheddyBot",
+  "version": "1.0.0",
+  "description": "The Official UVM GG Discord Bot",
+  "main": "bot.js",
+  "author": "Isaac Lee",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
 }
