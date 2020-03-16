@@ -1,8 +1,8 @@
 {
-“name”: “CheddyBot”,
-“version”: “1.0.0”,
-“description”: “The Official UVM GG Discord Bot”,
-“main”: “bot.js”,
-“author”: “Isaac Lee”,
-“dependencies”: {}
+"name": "CheddyBot",
+"version": "1.0.0",
+"description": "The Official UVM GG Discord Bot",
+"main": "bot.js",
+"author": "Isaac Lee",
+"dependencies": {}
 }
