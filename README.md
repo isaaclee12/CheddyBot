@@ -1,3 +1,3 @@
 # CheddyBot
 
-A small side project wherein I used Discord's bot API to experiment with a small bot account for my university's gaming club.
+A small side project where I used Discord's bot API to create a bot account for my university's gaming club.
